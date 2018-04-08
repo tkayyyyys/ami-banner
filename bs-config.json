@@ -1,0 +1,7 @@
+{
+  "logLevel": "debug",
+  "debugInfo": true,
+  "server": {
+    "baseDir": ["./src", "./build/contracts"]
+  }
+}
