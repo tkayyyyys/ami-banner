@@ -1,7 +1,7 @@
 {
   "logLevel": "debug",
   "debugInfo": true,
-  "port": 8080,
+  "port": process.env.PORT,
   "host": "127.0.0.1",
   "server": {
     "baseDir": ["./src", "./build/contracts"]
